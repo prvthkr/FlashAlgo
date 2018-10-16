@@ -12,7 +12,7 @@ module:
     - records/tools/make_gcc_arm.yaml
     - records/tools/iar_arm.yaml
 
-
+ 
 projects:
     template:
         - *module_tools
